@@ -2,10 +2,10 @@
 This is a simple Rock, Paper, Scissors game written in Python. You can play against the computer and see who wins.
 
 ## How to Play
-1 - Run the script in your Python environment.\n
-2 - The game will prompt you to choose 'r' for Rock, 'p' for Paper, or 's' for Scissors.\n
-3 - The computer will randomly select its choice.\n
-4 - The game will determine the winner based on your and the computer's choices.\n
+1 - Run the script in your Python environment.\
+2 - The game will prompt you to choose 'r' for Rock, 'p' for Paper, or 's' for Scissors.\
+3 - The computer will randomly select its choice.\
+4 - The game will determine the winner based on your and the computer's choices.\
 5 - You can keep playing until you choose to quit.
 
 ## Rules
